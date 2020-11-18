@@ -1,3 +1,5 @@
+package com.yoman;
+
 public class Pecahan {
     public int pembilang, penyebut;
     public int getpembilang() {
